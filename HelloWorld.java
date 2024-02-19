@@ -3,5 +3,6 @@ public class Main {
     System.out.println("HelloWorld - Merge master.");
     System.out.println("Hello World !");
     System.out.println("Merge conflicts emergency-fix!");
-  }
+    System.out.println("Salut !");
+ }
 }
