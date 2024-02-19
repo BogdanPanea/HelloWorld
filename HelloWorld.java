@@ -1,5 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello World ! Emergency fix.");
+    System.out.println("Hello World !");
+    System.out.println("Merge conflicts emergency-fix!");
   }
 }
