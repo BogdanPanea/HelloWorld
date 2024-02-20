@@ -4,5 +4,6 @@ public class Main {
     System.out.println("Hello World !");
     System.out.println("Merge conflicts emergency-fix!");
     System.out.println("Salut !");
+    System.out.println("GitHub new branch !");
  }
 }
